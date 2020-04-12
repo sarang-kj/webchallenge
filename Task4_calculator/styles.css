@@ -57,11 +57,17 @@ body {
   font-size: 2.5rem;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 500px) {
   body {
     background-color: lightblue;
   }
   .calculator-grid {
   justify-content: center;
-  align-content: center;
+  align-content:stretch;
+  grid-template-columns: repeat(4, 90px);
+  grid-template-rows: minmax(120px, auto) repeat(5, 100px);
+  
  }
+}
+
+
