@@ -69,17 +69,4 @@ body {
   grid-template-rows: minmax(140px, auto) repeat(5, 115px);
   }
 }
-@media only screen and (max-width: 600px) {
-  body {
-    background-color: lightblue;
-  }
-  .calculator-grid {
-  display: grid;
-  justify-content: center;
-  align-content: center;
-  
-  grid-template-columns: repeat(4,90px);
-  grid-template-rows: minmax(140px, auto) repeat(5, 100px);
 
-}
-}
