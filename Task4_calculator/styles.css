@@ -62,11 +62,6 @@ body {
     background-color: lightblue;
   }
   .calculator-grid {
-  display: grid;
   justify-content: center;
   align-content: center;
-  grid-template-columns: repeat(4, 124px);
-  grid-template-rows: minmax(140px, auto) repeat(5, 115px);
-  }
-}
-
+ }
