@@ -15,7 +15,7 @@ And one text area for pincode
 
 A drop-down menu for Selecting districts.
 
-A submit button for submitting the data.
+A submit button for submitting  data.
 
 Form submit kodukumbol oru boxil submit cheytha details kanikanam
 
