@@ -9,4 +9,4 @@ Use ordered and unordered
 
 Content : symptoms of covid, how to stay safe from covid,
 
-In Table include most affected 5 countries aviduthe number of cases, number of recovered cases.etc
+In Table include most affected 5 countries ,number of cases, number of recovered cases.etc
